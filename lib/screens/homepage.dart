@@ -1,5 +1,5 @@
-import 'package:alfabitaka/models/letter.dart';
-import 'package:alfabitaka/models/letters.dart';
+import '../models/letter.dart';
+import '../models/letters.dart';
 import 'package:flutter/material.dart';
 import 'package:alfabitaka/Settings/Constants/colors.dart';
 class HomePage extends StatefulWidget {

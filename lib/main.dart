@@ -1,6 +1,6 @@
 import 'package:alfabitaka/Settings/Constants/colors.dart';
 import 'package:alfabitaka/Settings/properties.dart';
-import 'package:alfabitaka/screens/homepage.dart';
+import 'screens/homepage.dart';
 import 'package:flutter/material.dart';
 
 void main() {

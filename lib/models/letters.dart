@@ -1,7 +1,7 @@
 
 import 'dart:typed_data';
 
-import 'package:alfabitaka/models/letter.dart';
+import 'letter.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
