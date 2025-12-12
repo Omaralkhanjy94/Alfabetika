@@ -11,6 +11,6 @@ class Alfabetika extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MainRoute();
+    return const MainRoute();
   }
 }
